@@ -1,4 +1,4 @@
-#Ele faz a automação dentro do sistema
+#Automação de processos
 # !pip install pa
 import pyautogui as pa
 import pyperclip # conserta problema de caracteresvictorssantos572@gmail.com        
